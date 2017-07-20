@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gratitude\n"
+"POT-Creation-Date: 2013-03-18 12:55-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: me <greenberrie@hotmail.com>\n"
+"Language-Team: me\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_c;"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n!= 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../gb-gratitude.php:120
+msgid "Settings"
+msgstr "Garbled"
+
+#: ../settings.php:21
+msgid "General Settings"
+msgstr "General Garbled"
+
+#: ../settings.php:28 ../settings.php:315
+msgid "Gratitude Settings"
+msgstr "Gratitude Garbled"
+
+#: ../settings.php:35
+msgid "Accomplishments Settings"
+msgstr "Accomplished Garbled"
+
+#: ../settings.php:43
+msgid "Slug"
+msgstr "Snail"
+
+#: ../settings.php:55
+msgid "Uninstall All Settings and Data on Plugin Deactivate"
+msgstr ""
+
+#: ../settings.php:68
+msgid "Gratitude Prompt"
+msgstr ""
+
+#: ../settings.php:80 ../settings.php:316
+msgid "Gratitude"
+msgstr ""
+
+#: ../settings.php:92
+msgid "Opportunity"
+msgstr ""
+
+#: ../settings.php:104
+msgid "Did"
+msgstr ""
+
+#: ../settings.php:116
+msgid "Do"
+msgstr ""
+
+#: ../settings.php:128
+msgid "Appreciate"
+msgstr ""
+
+#: ../settings.php:141
+msgid "Accomplishments Prompt"
+msgstr ""
+
+#: ../settings.php:153
+msgid "Number of Accomplishments to record"
+msgstr ""
+
+#: ../settings.php:173
+msgid "These allow for easier customization for the Gratitude Plugin."
+msgstr ""
+
+#: ../settings.php:180
+msgid "Customize the Accomplishments Here."
+msgstr ""
+
+#: ../settings.php:187
+msgid "Customize this plugins common settings."
+msgstr ""
+
+#: ../settings.php:328
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../post-types/gratitude_post.php:111
+msgid "Gratitude Posts"
+msgstr ""
+
+#: ../post-types/gratitude_post.php:112
+msgid "Gratitude Post"
+msgstr ""
+
+#: ../post-types/gratitude_post.php:116
+msgid ""
+"This is to help make journaling about your gratitude a little easier, and to "
+"help improve your life."
+msgstr ""
+
+#: ../templates/archive-gb-gratitude-post.php:76
+#: ../templates/single-gb-gratitude-post.php:75
+msgid "No Achievements were recorded for the day."
+msgstr ""
+
+#: ../templates/archive-gb-gratitude-post.php:81
+#: ../templates/single-gb-gratitude-post.php:79
+msgid "Pages:"
+msgstr ""
+
+#: ../templates/archive-gb-gratitude-post.php:82
+#: ../templates/single-gb-gratitude-post.php:80
+msgid "Edit"
+msgstr ""
